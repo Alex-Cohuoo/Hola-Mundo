@@ -13,5 +13,5 @@ Void Loop()
 {
 digitalRead(val,1);
 Serial.print("hola mundo ");
-
+digitaWrite(val,0);
 }
